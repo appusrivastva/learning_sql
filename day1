@@ -1,0 +1,11 @@
+// creating a database in mysql workbench
+SYNTAX-> CREATE DATABASE DATABASE_NAME;
+create database unitech;
+create database xyz;
+// DROP DATABASE 
+SYNTAX-> DROP DATABASE DATABASE_NAME;
+drop database xyz;
+// USE DATABASE_NAME
+SYNTAX-> USE DATABASE_NAME;
+use unitech;
+
